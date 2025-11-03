@@ -1,3 +1,16 @@
+/*
+ * --------------------------------------------------------------------------
+ * Autor: Uziel Alejandro Garcia
+ * Fecha de Creación: 20-10-2025
+ * Proyecto/Módulo: co-working
+ * --------------------------------------------------------------------------
+ * ADVERTENCIA DE DERECHOS DE AUTOR:
+ * Este código es propiedad intelectual de Uziel Alejandro Garcia.
+ * Queda estrictamente prohibida su reproducción, distribución, modificación
+ * o reclamación de autoría por terceros sin permiso expreso.
+ * Todos los derechos reservados.
+ * --------------------------------------------------------------------------
+ */
 package com.mycompany.coworkingspaces;
 
 import java.sql.Connection;

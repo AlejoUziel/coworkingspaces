@@ -142,7 +142,7 @@ public class login extends javax.swing.JFrame {
     }//GEN-LAST:event_txtfieldusuarioActionPerformed
 
     private void btningresarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btningresarActionPerformed
-       String usuario = txtfieldusuario.getText();
+    String usuario = txtfieldusuario.getText();
     String contrasena = new String(txtpassword.getPassword());
 
     if (usuario.isEmpty() || contrasena.isEmpty()) {
